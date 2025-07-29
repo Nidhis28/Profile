@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nidhi Singh – a passionate Data Analyst with a background in Electronics & Communication Engineering (2025).<br><br>👀 I’m interested in Data Analytics, Business Intelligence, SQL, Python, and Generative AI.<br><br>🌱 I’m currently exploring Machine Learning, Cloud Data Warehousing (Snowflake, AWS), and advanced Power BI storytelling.<br><br>💡 I’m open to collaborating on data analytics projects that drive real business impact.<br><br>📫 Reach me at: nidhisingh12726@gmail.com  <br>🔗 Let’s connect on LinkedIn: https://www.linkedin.com/in/your-link
+👋 Hi, I’m Nidhi Singh – a passionate Data Analyst with a background in Electronics & Communication Engineering (2025).<br><br>👀 I’m interested in Data Analytics, Business Intelligence, SQL, Python, and Generative AI.<br><br>🌱 I’m currently exploring Machine Learning, Cloud Data Warehousing (Snowflake, AWS), and advanced Power BI storytelling.<br><br>💡 I’m open to collaborating on data analytics projects that drive real business impact.<br><br>📫 Reach me at: nidhisingh12726@gmail.com  <br>🔗 Let’s connect on LinkedIn: [https://www.linkedin.com/in/nidhi-singh28/]
 
 
 ## 🌐 Socials:
